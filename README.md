@@ -134,7 +134,7 @@ Essas tabelas atendem as padronizações e normatizações de banco de dados. Os
 
 Onde (1:N) representa uma relação um para muitos, como pode ser observado na imagem abaixo:
 
-IMAGEM
+![Modelo ER da questão](img/Modelo_ER.PNG)
 
 Já o código abaixo traz os valores que é pedido:
 ```
